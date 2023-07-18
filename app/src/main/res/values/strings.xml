@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExchangeRate</string>
+    <string name="could_not_connect">Couldn\'t connect to the server. Check your network</string>
+    <string name="enter_value">Enter value</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="unable_to_convert">Unable to convert the exchange rates</string>
+    <string name="unexpected_error">Unexpected error occurred</string>
+</resources>
